@@ -1,6 +1,7 @@
 STARBIE
 <img width="732" height="642" alt="Screenshot 2026-10-11 195856" src="https://github.com/user-attachments/assets/b6da547d-b48e-4d0e-8060-a61781cf3535" />
 <
+<img width="559" height="420" alt="Screenshot 2026-10-11 164305" src="https://github.com/user-attachments/assets/ba7d2dc8-f870-435e-bd62-d105a7aceec5" />
 
  a tiny motion control digital pet that lives on a star-shaped PCB 
  ##Hardware 
@@ -32,3 +33,16 @@ Menu options: **NAP**, **PLAY**, **FEED**, and **PET**, each with its own animat
 ## Files
 - `MyStarbie/`: KiCad project, schematic, PCB, and Gerbers (`production/Starbie Gerbers.zip`)
 - `Starbie.ino`: firmware with my sparkle edit
+
+## Bill of Materials (BOM)
+
+| Ref | Part | Qty | Notes |
+|---|---|---|---|
+| U1 | Seeed XIAO ESP32-C3 | 1 | Microcontroller, surface-mounted (unsoldered version) |
+| J1 | 0.96" SSD1306 OLED, 128x64, I2C | 1 | 4-pin: GND, VCC, SCL, SDA |
+| J2 | GY-521 MPU6050 | 1 | Accelerometer/gyro, 8-pin |
+| U2 | DHT11 | 1 | Temperature/humidity sensor, bare 4-pin |
+| R1 | 10k ohm resistor, 1/4W | 1 | Pull-up for DHT11 data |
+| SW1, SW2 | MX-style switches | 2 | 5-pin PCB mount |
+| — | MX keycaps | 2 | For the two switches |
+| — | Starbie PCB | 1 | Star-shaped, 2-layer, made from my Gerbers |
