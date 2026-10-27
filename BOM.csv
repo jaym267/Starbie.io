@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Seeed XIAO ESP32C3 (SKU 113991054),1,Seeed (via Hackster),$4.99,$4.99,https://hackster.io/products/buy/116992
+"0.96"" SSD1306 OLED",1,52.pi,$5.09,$5.09,https://52pi.com/products/52pi-oled-display-module-i2c-iic-128x64-pixel-0-96-inch-display-module-yellow-blue-two-color-display-compatible-with-raspberry-pi-arduino-51-series-mcu-stm32-r3-and-mega
+GY-521 MPU6050,1,Hackster Store,$6.99,$6.99,https://hackster.io/products/buy/379
+DHT11 (4-pin),1,Digi-key,$2.77,$2.77,https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119
+Cherry MX1A-E1NN switch,2,Digi-Key,$1.25,$2.50,https://azcus.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084
+10k resistor (CF14JT10K0),1,Digi-Key,$0.10,$0.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1830374
+PCB (5 boards),1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/
+Estimated total shipping,1,,,$6.00,
