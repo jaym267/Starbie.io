@@ -41,11 +41,11 @@ Menu options: **NAP**, **PLAY**, **FEED**, and **PET**, each with its own animat
 | Seeed XIAO ESP32C3 (SKU 113991054) | The brain; runs the Starbie code | 1 | $4.99 | $4.99 | [Seeed (via Hackster)](https://hackster.io/products/buy/116992) |
 | 0.96" SSD1306 OLED | The screen Starbie lives on | 1 | $5.09 | $5.09 | [52Pi](https://52pi.com/products/52pi-oled-display-module-i2c-iic-128x64-pixel-0-96-inch-display-module-yellow-blue-two-color-display-compatible-with-raspberry-pi-arduino-51-series-mcu-stm32-r3-and-mega) |
 | GY-521 MPU6050 | Detects tilt and shake | 1 | $6.99 | $6.99 | [Hackster Store](https://hackster.io/products/buy/379) |
-| DHT11 (4-pin) | Measures temperature and humidity | 1 | $2.77 | $2.77 | [Digi-Key](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119) |
+| DHT11 (4-pin) | Measures temperature and humidity | 1 | $2.00 | $2.00 | [Digi-Key](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119) |
 | Cherry MX1A-E1NN switch | The two buttons | 2 | $1.25 | $2.50 | [Digi-Key](https://azcus.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084) |
 | 10k resistor (CF14JT10K0) | Pull-up for the DHT11 data line | 1 | $0.10 | $0.10 | [Digi-Key](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1830374) |
 | PCB (5 boards) | The star board itself | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
-| MX keycaps | Caps for the two switches (bought separately) | 2 | KEYCAP_PRICE | KEYCAP_TOTAL | [Buy](KEYCAP_LINK) |
-| Tax & shipping | Whole order | — | — | $5.00 | — |
+|Adafruit Dark Gray DSA Keycaps (10 pack) | Caps for the two MX switches | 1 | 5.95 | 5.95 | [[Buy](KEYCAP_LINK)](https://adafruit.com/product/5012) |
+| Tax & shipping | Whole order | — | — | $0.00 | — |
 
 **Funded total: $29.44** (keycaps not included)
