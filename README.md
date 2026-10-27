@@ -36,13 +36,16 @@ Menu options: **NAP**, **PLAY**, **FEED**, and **PET**, each with its own animat
 
 ## Bill of Materials (BOM)
 
-| Ref | Part | Qty | Notes |
-|---|---|---|---|
-| U1 | Seeed XIAO ESP32-C3 | 1 | Microcontroller, surface-mounted (unsoldered version) |
-| J1 | 0.96" SSD1306 OLED, 128x64, I2C | 1 | 4-pin: GND, VCC, SCL, SDA |
-| J2 | GY-521 MPU6050 | 1 | Accelerometer/gyro, 8-pin |
-| U2 | DHT11 | 1 | Temperature/humidity sensor, bare 4-pin |
-| R1 | 10k ohm resistor, 1/4W | 1 | Pull-up for DHT11 data |
-| SW1, SW2 | MX-style switches | 2 | 5-pin PCB mount |
-| — | MX keycaps | 2 | For the two switches |
-| — | Starbie PCB | 1 | Star-shaped, 2-layer, made from my Gerbers |
+| Part | What it's for | Qty | Unit Price | Total | Vendor |
+|---|---|---|---|---|---|
+| Seeed XIAO ESP32C3 (SKU 113991054) | The brain; runs the Starbie code | 1 | $4.99 | $4.99 | [Seeed (via Hackster)](https://hackster.io/products/buy/116992) |
+| 0.96" SSD1306 OLED | The screen Starbie lives on | 1 | $5.09 | $5.09 | [52Pi](https://52pi.com/products/52pi-oled-display-module-i2c-iic-128x64-pixel-0-96-inch-display-module-yellow-blue-two-color-display-compatible-with-raspberry-pi-arduino-51-series-mcu-stm32-r3-and-mega) |
+| GY-521 MPU6050 | Detects tilt and shake | 1 | $6.99 | $6.99 | [Hackster Store](https://hackster.io/products/buy/379) |
+| DHT11 (4-pin) | Measures temperature and humidity | 1 | $2.77 | $2.77 | [Digi-Key](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119) |
+| Cherry MX1A-E1NN switch | The two buttons | 2 | $1.25 | $2.50 | [Digi-Key](https://azcus.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084) |
+| 10k resistor (CF14JT10K0) | Pull-up for the DHT11 data line | 1 | $0.10 | $0.10 | [Digi-Key](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1830374) |
+| PCB (5 boards) | The star board itself | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
+| MX keycaps | Caps for the two switches (bought separately) | 2 | KEYCAP_PRICE | KEYCAP_TOTAL | [Buy](KEYCAP_LINK) |
+| Tax & shipping | Whole order | — | — | $5.00 | — |
+
+**Funded total: $29.44** (keycaps not included)
